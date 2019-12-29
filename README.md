@@ -1,0 +1,1 @@
+A webpage, app, and backend for management of officiants credentials. Eventually to allow for viewing approved positions of official, requesting sign off on upgrade, auto rank management and what is allowed to be done.
